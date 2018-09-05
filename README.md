@@ -16,3 +16,12 @@ Find below some of the best and popular links for learning new technologies.
    * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
    * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
    * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+
+## Python
+* [Python Docs](https://docs.python.org/3/tutorial/index.html)
+* [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
+* [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
+*  **Youtube Tutorials**
+   * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+   * [thenewboston](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+   * [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
