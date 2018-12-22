@@ -1,33 +1,34 @@
-# awesome tutorials
+# awesome resources
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
    
-This repo conatains all the types of tutorials be it Videos, PDFs, Code Snippets, Websites etc of every popular technology for learning
-purposes.
+This repo conatains all the types of tutorial resources be it Videos, PDFs, Code Snippets, Websites etc of every popular technology for learning purposes.
 
 Find below some of the best and popular links for learning new technologies/programming languages.
 
 ## C++
-* [cppreference](https://en.cppreference.com/w/)
-* [cplusplus](http://www.cplusplus.com/)
-* [isocpp](https://isocpp.org/)
+*  **Websites**
+   * [cppreference](https://en.cppreference.com/w/)
+   * [cplusplus](http://www.cplusplus.com/)
+   * [isocpp](https://isocpp.org/)
 *  **Youtube Tutorials**
    * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
    * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
    * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
    * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
-
+   * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
 -  **Blogs**
     - [Simplify C++](https://arne-mertz.de/) - *Advanced*
     
 ## Python
-* [Python Docs](https://docs.python.org/3/tutorial/index.html)
-* [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
-* [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
-* [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-* [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
-* [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
-* [Google Python class](https://developers.google.com/edu/python/)
+*  **Websites/Blogs**
+    * [Python Docs](https://docs.python.org/3/tutorial/index.html)
+    * [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
+    * [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
+    * [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+    * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
+    * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
+    * [Google Python class](https://developers.google.com/edu/python/)
   
 *  **Youtube Tutorials**
    * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
@@ -111,7 +112,7 @@ Find below some of the best and popular links for learning new technologies/prog
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     
-   **Lecture Slides**
+-  **Lecture Slides**
     - [Master Data Science PARIS-SACLAY](https://m2dsupsdlclass.github.io/lectures-labs/)
     
 ## Algorithms & Data Structures (E-Books)
