@@ -1,7 +1,8 @@
 # awesome resources
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-   
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This repo conatains all the types of tutorial resources be it Videos, PDFs, Code Snippets, Websites etc of every popular technology for learning purposes.
 
 Find below some of the best and popular links for learning new technologies/programming languages.
