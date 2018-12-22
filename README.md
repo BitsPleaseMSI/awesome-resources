@@ -17,6 +17,9 @@ Find below some of the best and popular links for learning new technologies/prog
    * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
    * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 
+-  **Blogs**
+    - [Simplify C++](https://arne-mertz.de/) - *Advanced*
+    
 ## Python
 * [Python Docs](https://docs.python.org/3/tutorial/index.html)
 * [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
@@ -60,6 +63,10 @@ Find below some of the best and popular links for learning new technologies/prog
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
 
+- **CSS**
+     - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+
+
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
@@ -84,6 +91,9 @@ Find below some of the best and popular links for learning new technologies/prog
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
          
+-  **Some Resourcefull Links**
+    - [ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR1KBG0QzDp5Jn1RBB0E9FL6trzmWc7T-rVgkfQN_TBj8VEBpB4yt1yE-Rc)
+    - [200 Best ML,NLP and Python Tutorials 2018](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
 ##  **Deep Learning**
 
@@ -101,8 +111,10 @@ Find below some of the best and popular links for learning new technologies/prog
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     
+   **Lecture Slides**
+    - [Master Data Science PARIS-SACLAY](https://m2dsupsdlclass.github.io/lectures-labs/)
     
- ## Algorithms & Data Structures (E-Books)
+## Algorithms & Data Structures (E-Books)
 
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
