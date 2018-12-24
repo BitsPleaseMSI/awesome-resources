@@ -20,6 +20,7 @@ Find below some of the best and popular links for learning new technologies/prog
    * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
 -  **Blogs**
     - [Simplify C++](https://arne-mertz.de/) - *Advanced*
+    - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
     
 ## Python
 *  **Websites/Blogs**
