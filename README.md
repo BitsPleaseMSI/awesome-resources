@@ -30,6 +30,8 @@ Find below some of the best and popular links for learning new technologies/prog
     * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
     * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
     * [Google Python class](https://developers.google.com/edu/python/)
+    * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
+    * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/) - **A tutorial for the Python wrapper of the Qt GUI framework**
   
 *  **Youtube Tutorials**
    * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
