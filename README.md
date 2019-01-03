@@ -21,6 +21,7 @@ Find below some of the best and popular links for learning new technologies/prog
 -  **Blogs**
     - [Simplify C++](https://arne-mertz.de/) - *Advanced*
     - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
+    - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
     
 ## Python
 *  **Websites/Blogs**
