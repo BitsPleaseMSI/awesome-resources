@@ -11,7 +11,9 @@ Find below some of the best and popular links for learning new technologies/prog
 *  **Websites**
    * [cppreference](https://en.cppreference.com/w/)
    * [cplusplus](http://www.cplusplus.com/)
-   * [isocpp](https://isocpp.org/)
+   * [isocpp FAQ](https://isocpp.org/faq)
+   * [C++ 11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
+   * [C++ Patterns](https://cpppatterns.com/)
 *  **Youtube Tutorials**
    * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
    * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
@@ -23,6 +25,7 @@ Find below some of the best and popular links for learning new technologies/prog
     - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
     - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
     - [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
+    - [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
     
 ## Python
 *  **Websites/Blogs**
