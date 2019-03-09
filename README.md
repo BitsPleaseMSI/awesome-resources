@@ -26,6 +26,9 @@ Find below some of the best and popular links for learning new technologies/prog
     - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
     - [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
     - [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
+    - [thoughts on cpp](https://thoughts-on-cpp.com/) - *Advanced*
+    - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
+    - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
     
 ## Python
 *  **Websites/Blogs**
