@@ -5,6 +5,8 @@
 
 This repo conatains all the types of tutorial resources be it Videos, PDFs, Code Snippets, Websites etc of every popular technology for learning purposes.
 
+Also check 
+### [A-to-Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 Find below some of the best and popular links for learning new technologies/programming languages.
 
 ## C++
