@@ -3,26 +3,38 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This repo conatains all the types of tutorial resources be it Videos, PDFs, Code Snippets, Websites etc of every popular technology for learning purposes.
+This repository contains a list of many types of tutorials and resources be it videos, PDFs, Code Snippets, Websites etc of many popular technologies for learning purposes.
 
 Also check 
 ### [A-to-Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 Find below some of the best and popular links for learning new technologies/programming languages.
 
+## C
+
+* **Cheatsheets**
+
+  * [C Reference Cheat Sheet by Ashlyn Black](https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference)
+
 ## C++
+
 *  **Websites**
+
    * [cppreference](https://en.cppreference.com/w/)
    * [cplusplus](http://www.cplusplus.com/)
    * [isocpp FAQ](https://isocpp.org/faq)
    * [C++ 11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
    * [C++ Patterns](https://cpppatterns.com/)
+
 *  **Youtube Tutorials**
+
    * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
    * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
    * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
    * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
    * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
--  **Blogs**
+
+*  **Blogs**
+
     - [Simplify C++](https://arne-mertz.de/) - *Advanced*
     - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
     - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
@@ -33,7 +45,9 @@ Find below some of the best and popular links for learning new technologies/prog
     - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
     
 ## Python
+
 *  **Websites/Blogs**
+
     * [Python Docs](https://docs.python.org/3/tutorial/index.html)
     * [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
     * [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
@@ -83,14 +97,12 @@ Find below some of the best and popular links for learning new technologies/prog
 - **CSS**
      - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 
-
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
-
 ##  **Machine Learning**
   
-> [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
+> [**Browse these links for detailed information on Machine Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
@@ -114,7 +126,7 @@ Find below some of the best and popular links for learning new technologies/prog
 
 ##  **Deep Learning**
 
-> [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
+> [**Browse these links for detailed information on Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
