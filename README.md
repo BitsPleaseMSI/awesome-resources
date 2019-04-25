@@ -43,6 +43,7 @@ Find below some of the best and popular links for learning new technologies/prog
     - [thoughts on cpp](https://thoughts-on-cpp.com/) - *Advanced*
     - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
     - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
+    - [vector<bool>{ true, true, false };](https://vector-of-bool.github.io/) - *Advanced*
     
 ## Python
 
