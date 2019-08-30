@@ -113,7 +113,7 @@ Find below some of the best and popular links for learning new technologies/prog
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     
 -  **Best Github Repositories to follow**
-- [Self Taught Path for Data Science](https://github.com/ossu/data-science)
+    - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
