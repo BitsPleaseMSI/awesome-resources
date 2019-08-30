@@ -184,3 +184,16 @@ Find below some of the best and popular links for learning new technologies/prog
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
+
+## Miscellaneous
+
+- [How HTTPS Works](https://howhttps.works/)
+- [How DNS Works](https://howdns.works/)
+- [Stanford CS Education Library](http://cslibrary.stanford.edu/)
+- [Git.WTF](https://git.wtf/)
+- [Oh shit, git!](https://ohshitgit.com/)
+- [OpenStax Textbooks](https://cnx.org/)
+- [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+
